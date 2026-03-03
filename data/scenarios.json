@@ -1,0 +1,78 @@
+[
+  {
+    "id": "weekend-football",
+    "label": "Weekend Football",
+    "seed": 112358,
+    "intensityMode": "NORMAL",
+    "regionBias": {
+      "US": 0.06,
+      "GB": 0.02,
+      "ES": 0.03,
+      "BR": 0.05,
+      "NG": 0.04,
+      "DE": 0.015,
+      "FR": 0.02,
+      "JP": 0.0,
+      "AU": 0.015
+    },
+    "eventTemplateIds": ["epl-ars-che", "ll-rma-atm", "bpl-pal-cor", "bun-bay-dor", "lig-psg-ol", "afcon-nga-gha"]
+  },
+  {
+    "id": "ufc-night",
+    "label": "UFC Night",
+    "seed": 314159,
+    "intensityMode": "NORMAL",
+    "regionBias": {
+      "US": 0.03,
+      "GB": 0.01,
+      "CA": 0.02,
+      "BR": 0.03,
+      "MX": 0.02,
+      "AU": 0.01
+    },
+    "eventTemplateIds": ["ufc-main", "ufc-co", "ufc-prop-1", "ufc-prop-2"]
+  },
+  {
+    "id": "super-bowl",
+    "label": "Super Bowl",
+    "seed": 271828,
+    "intensityMode": "CHAOS",
+    "regionBias": {
+      "US": 0.07,
+      "CA": 0.03,
+      "MX": 0.02,
+      "GB": 0.01,
+      "AU": 0.005
+    },
+    "eventTemplateIds": ["sb-ml", "sb-spread", "sb-total"]
+  },
+  {
+    "id": "cricket-finals",
+    "label": "Cricket Finals",
+    "seed": 161803,
+    "intensityMode": "NORMAL",
+    "regionBias": {
+      "IN": 0.06,
+      "AE": 0.02,
+      "GB": 0.015,
+      "ZA": 0.02,
+      "AU": 0.02
+    },
+    "eventTemplateIds": ["cwc-final-ml", "cwc-final-total", "t20-final"]
+  },
+  {
+    "id": "esports-major",
+    "label": "Esports Major",
+    "seed": 8675309,
+    "intensityMode": "CHAOS",
+    "regionBias": {
+      "KR": 0.04,
+      "US": 0.01,
+      "DE": 0.01,
+      "BR": 0.015,
+      "JP": 0.02
+    },
+    "eventTemplateIds": ["lol-major", "cs-major", "val-major"]
+  }
+]
+

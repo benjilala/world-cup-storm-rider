@@ -1,0 +1,155 @@
+[
+  {
+    "code": "US",
+    "name": "United States",
+    "lat": 38.0,
+    "lng": -97.0,
+    "weight": 1.0,
+    "channelMix": { "mobile": 0.56, "desktop": 0.29, "affiliate": 0.08, "retail": 0.05, "api": 0.02 }
+  },
+  {
+    "code": "GB",
+    "name": "United Kingdom",
+    "lat": 54.0,
+    "lng": -2.0,
+    "weight": 0.62,
+    "channelMix": { "mobile": 0.53, "desktop": 0.32, "affiliate": 0.1, "retail": 0.03, "api": 0.02 }
+  },
+  {
+    "code": "DE",
+    "name": "Germany",
+    "lat": 51.1,
+    "lng": 10.4,
+    "weight": 0.48,
+    "channelMix": { "mobile": 0.49, "desktop": 0.35, "affiliate": 0.1, "retail": 0.03, "api": 0.03 }
+  },
+  {
+    "code": "FR",
+    "name": "France",
+    "lat": 46.2,
+    "lng": 2.2,
+    "weight": 0.44,
+    "channelMix": { "mobile": 0.5, "desktop": 0.34, "affiliate": 0.09, "retail": 0.04, "api": 0.03 }
+  },
+  {
+    "code": "ES",
+    "name": "Spain",
+    "lat": 40.4,
+    "lng": -3.7,
+    "weight": 0.41,
+    "channelMix": { "mobile": 0.52, "desktop": 0.33, "affiliate": 0.1, "retail": 0.03, "api": 0.02 }
+  },
+  {
+    "code": "IT",
+    "name": "Italy",
+    "lat": 42.8,
+    "lng": 12.5,
+    "weight": 0.36,
+    "channelMix": { "mobile": 0.51, "desktop": 0.33, "affiliate": 0.1, "retail": 0.04, "api": 0.02 }
+  },
+  {
+    "code": "NL",
+    "name": "Netherlands",
+    "lat": 52.2,
+    "lng": 5.3,
+    "weight": 0.26,
+    "channelMix": { "mobile": 0.46, "desktop": 0.38, "affiliate": 0.1, "retail": 0.03, "api": 0.03 }
+  },
+  {
+    "code": "TR",
+    "name": "Türkiye",
+    "lat": 39.0,
+    "lng": 35.0,
+    "weight": 0.28,
+    "channelMix": { "mobile": 0.6, "desktop": 0.25, "affiliate": 0.1, "retail": 0.03, "api": 0.02 }
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "lat": -14.2,
+    "lng": -51.9,
+    "weight": 0.58,
+    "channelMix": { "mobile": 0.64, "desktop": 0.22, "affiliate": 0.1, "retail": 0.03, "api": 0.01 }
+  },
+  {
+    "code": "AR",
+    "name": "Argentina",
+    "lat": -34.6,
+    "lng": -58.4,
+    "weight": 0.31,
+    "channelMix": { "mobile": 0.62, "desktop": 0.24, "affiliate": 0.1, "retail": 0.03, "api": 0.01 }
+  },
+  {
+    "code": "MX",
+    "name": "Mexico",
+    "lat": 23.6,
+    "lng": -102.5,
+    "weight": 0.33,
+    "channelMix": { "mobile": 0.61, "desktop": 0.25, "affiliate": 0.09, "retail": 0.03, "api": 0.02 }
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "lat": 56.1,
+    "lng": -106.3,
+    "weight": 0.29,
+    "channelMix": { "mobile": 0.52, "desktop": 0.33, "affiliate": 0.08, "retail": 0.04, "api": 0.03 }
+  },
+  {
+    "code": "NG",
+    "name": "Nigeria",
+    "lat": 9.1,
+    "lng": 8.7,
+    "weight": 0.37,
+    "channelMix": { "mobile": 0.78, "desktop": 0.12, "affiliate": 0.07, "retail": 0.02, "api": 0.01 }
+  },
+  {
+    "code": "ZA",
+    "name": "South Africa",
+    "lat": -28.5,
+    "lng": 24.7,
+    "weight": 0.25,
+    "channelMix": { "mobile": 0.67, "desktop": 0.2, "affiliate": 0.08, "retail": 0.03, "api": 0.02 }
+  },
+  {
+    "code": "IN",
+    "name": "India",
+    "lat": 22.6,
+    "lng": 78.9,
+    "weight": 0.7,
+    "channelMix": { "mobile": 0.76, "desktop": 0.14, "affiliate": 0.06, "retail": 0.02, "api": 0.02 }
+  },
+  {
+    "code": "AE",
+    "name": "United Arab Emirates",
+    "lat": 24.3,
+    "lng": 54.4,
+    "weight": 0.18,
+    "channelMix": { "mobile": 0.57, "desktop": 0.29, "affiliate": 0.08, "retail": 0.03, "api": 0.03 }
+  },
+  {
+    "code": "JP",
+    "name": "Japan",
+    "lat": 36.2,
+    "lng": 138.2,
+    "weight": 0.24,
+    "channelMix": { "mobile": 0.5, "desktop": 0.36, "affiliate": 0.08, "retail": 0.03, "api": 0.03 }
+  },
+  {
+    "code": "KR",
+    "name": "South Korea",
+    "lat": 36.5,
+    "lng": 127.8,
+    "weight": 0.21,
+    "channelMix": { "mobile": 0.52, "desktop": 0.34, "affiliate": 0.08, "retail": 0.03, "api": 0.03 }
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "lat": -25.7,
+    "lng": 134.5,
+    "weight": 0.23,
+    "channelMix": { "mobile": 0.55, "desktop": 0.32, "affiliate": 0.07, "retail": 0.03, "api": 0.03 }
+  }
+]
+

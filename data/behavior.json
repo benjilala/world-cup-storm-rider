@@ -1,0 +1,54 @@
+{
+  "stake": {
+    "logNormalMu": 7.7,
+    "logNormalSigma": 0.9,
+    "min": 15,
+    "max": 25000,
+    "spikeMultiplier": 2.4,
+    "sharpMultiplier": 3.6,
+    "whaleMultiplier": 18.0,
+    "spikeMax": 60000,
+    "sharpMax": 90000,
+    "whaleMin": 20000,
+    "whaleMax": 250000
+  },
+  "rates": {
+    "baseBetsPerSecond": 0.65,
+    "sharpInjectionRate": 0.02,
+    "spikeChance": 0.035,
+    "whaleChance": 0.012
+  },
+  "timing": {
+    "nearStartSigmaMinutes": 18,
+    "nearStartSpikeAmplitude": 2.2
+  },
+  "decay": {
+    "window5mHalfLifeMs": 300000,
+    "window60sHalfLifeMs": 60000
+  },
+  "line": {
+    "min": 0.2,
+    "max": 0.8,
+    "stakeImpactBase": 0.0028,
+    "stakeImpactMax": 0.03,
+    "liquidityBase": 95000,
+    "liquiditySlope": 0.85,
+    "sharpMultiplier": 1.35,
+    "whaleMultiplier": 1.85,
+    "meanReversion": 0.16,
+    "noise": 0.0024
+  },
+  "cascade": {
+    "cooldownMs": 45000,
+    "durationMs": 35000,
+    "rateBoostMax": 2.6,
+    "biasStrengthMax": 0.24,
+    "decayHalfLifeMs": 15000
+  },
+  "intensityModes": {
+    "CALM": { "betRate": 0.6, "whale": 0.7, "sharp": 0.8, "noise": 0.7, "cascade": 0.7 },
+    "NORMAL": { "betRate": 1.0, "whale": 1.0, "sharp": 1.0, "noise": 1.0, "cascade": 1.0 },
+    "CHAOS": { "betRate": 1.8, "whale": 1.35, "sharp": 1.25, "noise": 1.25, "cascade": 1.35 }
+  }
+}
+

@@ -1,0 +1,51 @@
+.pg-noise::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.06;
+  mix-blend-mode: overlay;
+  background-image:
+    repeating-linear-gradient(
+      0deg,
+      rgba(255, 255, 255, 0.06),
+      rgba(255, 255, 255, 0.06) 1px,
+      transparent 1px,
+      transparent 2px
+    ),
+    radial-gradient(800px 600px at 15% 10%, rgba(0, 255, 209, 0.11), transparent 70%),
+    radial-gradient(900px 650px at 82% 22%, rgba(0, 174, 255, 0.11), transparent 70%),
+    radial-gradient(1000px 800px at 50% 110%, rgba(255, 166, 64, 0.06), transparent 70%);
+}
+
+.pg-scanlines::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.12;
+  background-image: repeating-linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0) 0px,
+    rgba(0, 0, 0, 0) 2px,
+    rgba(0, 0, 0, 0.34) 3px
+  );
+  mix-blend-mode: multiply;
+}
+
+.pg-vignette {
+  position: relative;
+}
+
+.pg-vignette > .pg-vignette-layer {
+  pointer-events: none;
+  position: absolute;
+  inset: -1px;
+  background: radial-gradient(
+    1200px 900px at 50% 35%,
+    transparent 60%,
+    rgba(0, 0, 0, 0.72) 100%
+  );
+  opacity: 0.9;
+}
+

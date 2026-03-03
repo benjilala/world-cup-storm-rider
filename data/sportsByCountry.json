@@ -1,0 +1,142 @@
+{
+  "US": [
+    { "sport": "American Football", "weight": 0.32 },
+    { "sport": "Basketball", "weight": 0.22 },
+    { "sport": "Baseball", "weight": 0.12 },
+    { "sport": "Football", "weight": 0.18 },
+    { "sport": "MMA", "weight": 0.08 },
+    { "sport": "Esports", "weight": 0.08 }
+  ],
+  "GB": [
+    { "sport": "Football", "weight": 0.52 },
+    { "sport": "Tennis", "weight": 0.12 },
+    { "sport": "Cricket", "weight": 0.12 },
+    { "sport": "American Football", "weight": 0.08 },
+    { "sport": "MMA", "weight": 0.06 },
+    { "sport": "Esports", "weight": 0.1 }
+  ],
+  "DE": [
+    { "sport": "Football", "weight": 0.58 },
+    { "sport": "Tennis", "weight": 0.1 },
+    { "sport": "Basketball", "weight": 0.08 },
+    { "sport": "MMA", "weight": 0.06 },
+    { "sport": "Esports", "weight": 0.18 }
+  ],
+  "FR": [
+    { "sport": "Football", "weight": 0.5 },
+    { "sport": "Tennis", "weight": 0.14 },
+    { "sport": "Basketball", "weight": 0.1 },
+    { "sport": "MMA", "weight": 0.06 },
+    { "sport": "Esports", "weight": 0.2 }
+  ],
+  "ES": [
+    { "sport": "Football", "weight": 0.62 },
+    { "sport": "Tennis", "weight": 0.1 },
+    { "sport": "Basketball", "weight": 0.12 },
+    { "sport": "MMA", "weight": 0.06 },
+    { "sport": "Esports", "weight": 0.1 }
+  ],
+  "IT": [
+    { "sport": "Football", "weight": 0.6 },
+    { "sport": "Tennis", "weight": 0.12 },
+    { "sport": "Basketball", "weight": 0.08 },
+    { "sport": "MMA", "weight": 0.06 },
+    { "sport": "Esports", "weight": 0.14 }
+  ],
+  "NL": [
+    { "sport": "Football", "weight": 0.5 },
+    { "sport": "Tennis", "weight": 0.1 },
+    { "sport": "Basketball", "weight": 0.08 },
+    { "sport": "MMA", "weight": 0.05 },
+    { "sport": "Esports", "weight": 0.27 }
+  ],
+  "TR": [
+    { "sport": "Football", "weight": 0.6 },
+    { "sport": "Basketball", "weight": 0.12 },
+    { "sport": "Tennis", "weight": 0.08 },
+    { "sport": "MMA", "weight": 0.08 },
+    { "sport": "Esports", "weight": 0.12 }
+  ],
+  "BR": [
+    { "sport": "Football", "weight": 0.7 },
+    { "sport": "MMA", "weight": 0.1 },
+    { "sport": "Basketball", "weight": 0.08 },
+    { "sport": "Tennis", "weight": 0.04 },
+    { "sport": "Esports", "weight": 0.08 }
+  ],
+  "AR": [
+    { "sport": "Football", "weight": 0.72 },
+    { "sport": "Basketball", "weight": 0.08 },
+    { "sport": "Tennis", "weight": 0.05 },
+    { "sport": "MMA", "weight": 0.07 },
+    { "sport": "Esports", "weight": 0.08 }
+  ],
+  "MX": [
+    { "sport": "Football", "weight": 0.44 },
+    { "sport": "Boxing", "weight": 0.14 },
+    { "sport": "American Football", "weight": 0.12 },
+    { "sport": "Basketball", "weight": 0.08 },
+    { "sport": "MMA", "weight": 0.08 },
+    { "sport": "Esports", "weight": 0.14 }
+  ],
+  "CA": [
+    { "sport": "American Football", "weight": 0.22 },
+    { "sport": "Hockey", "weight": 0.18 },
+    { "sport": "Basketball", "weight": 0.12 },
+    { "sport": "Football", "weight": 0.16 },
+    { "sport": "MMA", "weight": 0.08 },
+    { "sport": "Esports", "weight": 0.24 }
+  ],
+  "NG": [
+    { "sport": "Football", "weight": 0.76 },
+    { "sport": "Basketball", "weight": 0.06 },
+    { "sport": "MMA", "weight": 0.06 },
+    { "sport": "Cricket", "weight": 0.04 },
+    { "sport": "Esports", "weight": 0.08 }
+  ],
+  "ZA": [
+    { "sport": "Football", "weight": 0.48 },
+    { "sport": "Cricket", "weight": 0.18 },
+    { "sport": "Rugby", "weight": 0.14 },
+    { "sport": "MMA", "weight": 0.06 },
+    { "sport": "Esports", "weight": 0.14 }
+  ],
+  "IN": [
+    { "sport": "Cricket", "weight": 0.62 },
+    { "sport": "Football", "weight": 0.14 },
+    { "sport": "Kabaddi", "weight": 0.08 },
+    { "sport": "Tennis", "weight": 0.05 },
+    { "sport": "MMA", "weight": 0.05 },
+    { "sport": "Esports", "weight": 0.06 }
+  ],
+  "AE": [
+    { "sport": "Football", "weight": 0.4 },
+    { "sport": "Cricket", "weight": 0.26 },
+    { "sport": "MMA", "weight": 0.08 },
+    { "sport": "Tennis", "weight": 0.06 },
+    { "sport": "Esports", "weight": 0.2 }
+  ],
+  "JP": [
+    { "sport": "Baseball", "weight": 0.26 },
+    { "sport": "Football", "weight": 0.18 },
+    { "sport": "Basketball", "weight": 0.12 },
+    { "sport": "MMA", "weight": 0.08 },
+    { "sport": "Esports", "weight": 0.36 }
+  ],
+  "KR": [
+    { "sport": "Esports", "weight": 0.48 },
+    { "sport": "Baseball", "weight": 0.16 },
+    { "sport": "Football", "weight": 0.14 },
+    { "sport": "Basketball", "weight": 0.1 },
+    { "sport": "MMA", "weight": 0.12 }
+  ],
+  "AU": [
+    { "sport": "Football", "weight": 0.3 },
+    { "sport": "Rugby", "weight": 0.18 },
+    { "sport": "Cricket", "weight": 0.22 },
+    { "sport": "American Football", "weight": 0.06 },
+    { "sport": "MMA", "weight": 0.06 },
+    { "sport": "Esports", "weight": 0.18 }
+  ]
+}
+
